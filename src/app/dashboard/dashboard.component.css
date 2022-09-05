@@ -1,0 +1,54 @@
+.dashboard{
+    margin-top: 5%;
+    font-weight: bold;
+}
+.more{
+    margin-left: 80%;
+}
+.b2{
+    width: 23px;
+    background-color: rgb(168, 86, 246);
+    margin-left: 25px;
+    margin-top: 20px;
+    height: 30px;
+    width: 30px;
+    padding-left: 5px;
+    border-radius: 4px;
+}
+.be,.icon4,.b2,.grammar{
+ display: inline-block;
+ color: #fff;
+}
+.grammar{
+    margin-left: 87px;
+    margin-bottom: 10px;
+}
+.be{
+  margin-left: 25px;
+}
+.icon4{
+    margin-left: 60px;
+}
+.bg-1{
+    background-color: rgb(116, 8, 187);
+    border-radius: 10px;
+    margin: 10px;
+}
+.bg-3{
+    background-color: rgb(248, 133, 62);
+}
+.b3{
+    background-color: rgb(251, 161, 128);
+}
+.ph{
+    margin-left: 75px;
+}
+.icon5{
+    margin-left: 45px;
+}
+.bg-5{
+   background-color: blueviolet;
+}
+.b5{
+    background-color: rgb(157, 61, 247);
+}
